@@ -40,6 +40,9 @@ int main(){
         mazoOrdenado[i]=i;
     }
 
+    //comentario de prueba
+
+
     int index=0;
     for(int i=0;i<TAM;i++){
         do{
